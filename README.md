@@ -2,7 +2,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/sEMGDetection&label=visitors&countColor=%232ccce4&style=plastic)  This is the official source code repository of "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals From Surface Electromyographic Signals".
 
 We provide the test data for running the algorithm.
+
 Step 1: Run the main1.m to get the entropy feature.
+
 Step 2: Run the main2.m to detect the onsets and offsets of the sEMG activation intervals.
 
 If our work is helpful to you, please **Star** it and kindly **Cite** our paper as:  
